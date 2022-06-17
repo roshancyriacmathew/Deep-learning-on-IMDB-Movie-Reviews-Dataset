@@ -4,3 +4,4 @@ The dataset is highly balanced and consists of 25,000 highly polar positive and 
 
 
 To see a detaild video explanation on this topic, check out the following link:
+https://youtu.be/ybzeyAfWh7U
